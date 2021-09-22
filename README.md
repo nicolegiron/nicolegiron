@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicolegiron
 - 👀 I’m interested in software engineering and coding
 - 🌱 I’m currently studying Computer Science in the College of Engineering at the Pennsylvania State University
-- 💞️ 
 - 📫 How to reach me: email - nqg5259@psu.edu : LinkedIn - linkedin.com/in/nicole-giron-611b341a0/
 
 <!---
